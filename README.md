@@ -2,7 +2,7 @@
 
 A full-stack internal web platform built for the IDF Central Command, enabling HR officers to publish permanent job openings and soldiers to browse and apply — all in one place.
 
-> Built and deployed during my service in the IDF Data Division (Mador Data), as part of the Beresheet tech team. Actively used by 500+ personnel across the command.
+> Built and deployed during my service in the IDF Data Division (Mador Data), as part of the Beresheet tech team.
 
 ---
 
