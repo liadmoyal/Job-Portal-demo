@@ -27,7 +27,7 @@ This platform replaced that entire workflow.
 
 
 | Job Listings | HR Dashboard | Application Form | Jobs Managment | MobileHome |
-|---|---|---|
+|---|---|---|---|---|
 | ![Listings](screenshots/HomePage.png) | ![HR Dashboard](screenshots/dashboard.png) | ![Form](screenshots/applyJobForm.png) |  ![Managment](screenshots/JobsManagment.png) | ![Mobile](screenshots/MobileHome.png) |
 
 ---
